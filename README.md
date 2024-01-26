@@ -10,3 +10,6 @@ python .\PlayGame.py --option central
 
 3. Kết hợp cả 2 cách trên
 python .\PlayGame.py --option combine
+
+**Có thể xem video demo ở linh dưới đây**
+https://drive.google.com/drive/folders/1iqWh358PiCtq8RW7Znt3JFlx3CWmBznR?usp=sharing
